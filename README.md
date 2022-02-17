@@ -1,6 +1,6 @@
 <h1 align="center">Senior Front-end Engineer</h1>
 
-<a target="blank" href="https://profile-counter.glitch.me/topninja/count.svg"><p align="center">❤ Visitor Counts ❤<br><br> <img src="https://profile-counter.glitch.me/fierce-dragon/count.svg" /></a>
+<a target="blank" href="https://profile-counter.glitch.me/super5508/count.svg"><p align="center">❤ Visitor Counts ❤<br><br> <img src="https://profile-counter.glitch.me/super5508/count.svg" /></a>
 <h3 align="center">
 Platform&Tools
 </h3>
@@ -17,7 +17,7 @@ Platform&Tools
   <summary> More things </summary>
   <br>
     <p>
-        <a href= "https://github.com/anuraghazra/github-readme-stats"><img src= "https://github-readme-stats.vercel.app/api/top-langs/?username=fierce-dragon&layout=compact" /></a>
+        <a href= "https://github.com/anuraghazra/github-readme-stats"><img src= "https://github-readme-stats.vercel.app/api/top-langs/?username=super5508&layout=compact" /></a>
     </p>
   
   <!--Here are some ideas to get you started:

@@ -11,23 +11,7 @@ Platform&Tools
 [![VSCode](https://img.shields.io/badge/vscode-VSCode-green)](https://code.visualstudio.com/download)
 
 [![React](https://img.shields.io/badge/-React-E34F26?style=flat-square&logo=react&logoColor=white)](https://reactjs.org/)
+[![Next](https://img.shields.io/badge/-Next-E34F26?style=flat-square&logo=next&logoColor=white)](https://nextjs.org/)
+[![TypeScript](https://img.shields.io/badge/-TypeScript-E34F26?style=flat-square&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
+[![TypeScript](https://img.shields.io/badge/-TailwindCSS-E34F26?style=flat-square&logo=tailwind&logoColor=white)](https://tailwindcss.com/)
 </div>
-
-<details>
-  <summary> More things </summary>
-  <br>
-    <p>
-        <a href= "https://github.com/anuraghazra/github-readme-stats"><img src= "https://github-readme-stats.vercel.app/api/top-langs/?username=super5508&layout=compact" /></a>
-    </p>
-  
-  <!--Here are some ideas to get you started:
-    - 🔭 I’m currently working on ...
-    - 🌱 I’m currently learning ...
-    - 👯 I’m looking to collaborate on ...
-    - 🤔 I’m looking for help with ...
-    - 💬 Ask me about ...
-    - 📫 How to reach me: ...
-    - 😄 Pronouns: ...
-    - ⚡ Fun fact: ...
-    -->
-</details>
